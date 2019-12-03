@@ -1,4 +1,5 @@
 # Data-Science
+![](img/data_science.jpg)
 Any data science related information from SFU will be stored under this repository.
 
 ## Table of contents
