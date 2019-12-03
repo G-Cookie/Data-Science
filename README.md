@@ -1,5 +1,4 @@
 # Data-Science
-![](img/data_science.jpg)
 Any data science related information from SFU will be stored under this repository.
 
 ## Table of contents
@@ -9,6 +8,8 @@ Any data science related information from SFU will be stored under this reposito
 <a name="history"/>
 
 ## Definition
+![](img/data_science.jpg)
+
 Data Science is an interdisciplinary undergraduate program at SFU involving coursework in four different areas: Statistics, Computing Science, Mathematics, and Business. The program was designed in light of consultations with industry, analysis of employment trends, and faculty research in upcoming data technologies. The result is an applied, skills-based program that gives students the tools and abilities they need to gain employment and be successful in the area of Data Science.
 
 Ref. http://www.sfu.ca/datascience.html
