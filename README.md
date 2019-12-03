@@ -29,4 +29,4 @@ names(dbReadTable(dbcon,"zip"))
 tail(dbReadTable(dbcon, "CA"))
 head(dbReadTable(dbcon, "POP2011"),3)
 ```
-You can download this code from A3-1 file.
+You can download this code from Ex_Code file.
